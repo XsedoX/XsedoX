@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @XsedoX1
+- 👋 Hi, I’m @XsedoX
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning C# and I am studing at University
+- 🌱 I’m currently working as a C# developer and I'm writing scripts for HCL.
 
 <!---
 XsedoX1/XsedoX1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
