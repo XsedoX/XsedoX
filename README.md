@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XsedoX
 - 👀 I’m interested in IT
-- 🌱 I’m currently working as a C# developer and I'm writing scripts for HCL.
+- 🌱 I’m currently working in HCL as a C# developer. I also write scripts in Powershell in that job.
 
 <!---
 XsedoX1/XsedoX1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
